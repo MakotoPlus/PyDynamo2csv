@@ -1,11 +1,16 @@
 # PyDynamo2csv
 PyDynamo2csv
 
-Python 3.X版 Dynamo Database to CSVファイル
+Python 3.X版 
+Dynamo Database to CSVファイル出力
+
 
 機能概要
+
 ・指定されたDynamoテーブル情報をCSV出力します。
+
 ・ネスト型の構成には対応していません。
+
 ・指定されたフォルダ配下に日時のフォルダを作成しテーブル単位でCSVファイルを出力します
 
 
