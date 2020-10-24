@@ -1,5 +1,5 @@
-# Dynamo2csv
-Dynamo2csv
+# PyDynamo2csv
+PyDynamo2csv
 
 Python 3.X版 Dynamo Database to CSVファイル
 
